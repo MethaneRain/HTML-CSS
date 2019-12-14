@@ -1,5 +1,5 @@
 # HTML-CSS
-Documenting my journey into JavaScript and HTML w/ CSS
+Documenting my journey into HTML w/ CSS
 
 ---
 
