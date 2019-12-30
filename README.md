@@ -28,3 +28,11 @@ text
 ```
 
 That's it! Check out the ```basic_html.html``` file here: https://github.com/MethaneRain/JavaScript/blob/master/basic_html.html
+
+---
+
+---
+
+CSS (cascade style sheet) is what gives the html file some really cool options for formatting, font, and a whole bunch of other styling for the content. This is what makes some webpages look really professional. Since I'm still learning I've been able to get a basic idea of how to integrate this into the ```html``` file.
+
+The ```.css``` file is added into the different ```<div>``` tags in the ```html``` file.
